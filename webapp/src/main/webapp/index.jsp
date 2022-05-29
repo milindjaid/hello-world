@@ -20,7 +20,7 @@
     <br>
 
     <label for="age"><b>Enter Age</b></label>
-    <input type="text" placeholder="Enter user age" name="age" id="age" required>
+    <input type="text" placeholder="Enter the user age" name="age" id="age" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
